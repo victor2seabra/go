@@ -1397,6 +1397,7 @@ São formas de executarmos funções de modo paralelo ou concorrente
 ## Paralelismo e Concorrência
 
 ![](go-images/Pasted-image-20251101195419.png)
+
 Paralelismo ocorre quando temos múltiplas funções sendo executadas ao mesmo tempo numa máquina, porém em cores diferentes
 
 A concorrência por sua vez ocorre quando temos mais de uma função usando do mesmo core para desempenhar seu objetivo. Nesse caso, apesar de o usuário não perceber, quando uma função está aguardando por alguma dependência, outra função assume o uso do core
